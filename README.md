@@ -1,2 +1,2 @@
 # home-network-recon
-Home network reconnaissance using Kali Linux and nmap
+Home network reconnaissance using Kali Linux and nmap & pcap analysis
